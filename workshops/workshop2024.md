@@ -18,31 +18,31 @@
 
 |    Time         |   Activity   |
 | :------------   | -------------: |
-| Step 1     |  Arrive at Des moines Airport, can take a [convenient shuttle](https://www.executiveexpress.biz/shuttle-service/) (sign up a week before to reserve) to Ames or use Uber/Lyft|
-| Step 2     |  Arrive at [Gateway Hotel of Ames](https://www.gatewayames.com/?gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYd_bDL2ZwiJL24UCD7-JF8ZD6-vSqDUP6vmgmWIXBR79M8Nu1fIwgBoCoKcQAvD_BwE&gclsrc=aw.ds) on campus of ISU |
-| 6 pm - 7 pm     |  Welcome Social and Dinner        |
-| 7 pm - 8 pm     | Opening |
+| Step 1          |  Arrive at Des moines Airport, can take a [convenient shuttle](https://www.executiveexpress.biz/shuttle-service/) (sign up a week before to reserve) to Ames or use Uber/Lyft|
+| Step 2          |  Arrive at [Gateway Hotel of Ames](https://www.gatewayames.com/?gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYd_bDL2ZwiJL24UCD7-JF8ZD6-vSqDUP6vmgmWIXBR79M8Nu1fIwgBoCoKcQAvD_BwE&gclsrc=aw.ds) on campus of ISU |
+| 6 pm - 8 pm     |  Welcome Social and Dinner        |
+
 
 ### Thursday May 30, 2024:
 
 |    Time         |   Activity   |
 | :------------   | -------------: |
-|8 am - 9 am | Breakfast and Tour of MolSSI resources (https://molssi.org/education/) |
-|9 am - 10 am | Discussion of Python resources for undergraduate science education |
-|10 am - 12 pm | Work on Python teaching materials in small groups (or attend MolSSI workshop) |
+|8 am - 9 am  | Breakfast and Introductions  |
+|9 am - 10 am | Tour of ESCIP repository part 1 (escip.github.io) |
+|10 am - 12 pm | Work on Python teaching materials in small groups  |
 |12 pm - 1 pm | Lunch and informal discussions |
-|1 pm - 4 pm | Work on Python teaching materials individually or in small groups |
-|4 pm - 5 pm | Keynote Talk  |
+|1 pm - 4 pm | Work on Python teaching materials individually in small groups |
+|4 pm - 5 pm | Keynote Talks  |
 |5 pm - 6 pm | Dinner and lightning talks, sharing by attendees |
-|6 pm - 7 pm | Education talk  |
+|6 pm - 7 pm | Keynote Talks   |
 |7 pm –  | informal discussions |
 
 ### Friday May 31, 2024:
 
 |    Time         |   Activity   |
 | :------------   | -------------: |
-| 8 am - 9 am | Breakfast and Tour of ESCIP repository (escip.github.io) |
-| 9 am - 11 am | Work on Python teaching materials in small groups (or attend MolSSI workshop) |
+| 8 am - 9 am |  Breakfast and Tour of ESCIP repository part 2 (escip.github.io) |
+| 9 am - 11 am | Work on Python teaching materials in small groups  |
 | 11 am - 12 pm | Attendees report out and complete end-of-workshop survey |
 | 12 pm - 1 pm | Lunch and informal discussions |
 | 3 pm - 6 pm | Tour of Des Moines Capitol and East Village |
