@@ -28,7 +28,8 @@
 |    Time         |   Activity   |
 | :------------   | -------------: |
 |8 am - 9 am  | Breakfast and Introductions  |
-|9 am - 10 am | Tour of ESCIP repository part 1 (escip.github.io) |
+|9 am - 9:15 am  | Welcome message by Prof Theresa Windus, chair of ISU Chemistry Department  |
+|9:15 am - 10 am | Tour of ESCIP repository part 1 (escip.github.io) by Prof Davit Potoyan |
 |10 am - 12 pm | Vision Talks  |
 |12 pm - 1 pm | Lunch and informal discussions |
 |1 pm - 4 pm | Work on Python teaching materials individually in small groups |
