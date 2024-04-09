@@ -33,10 +33,15 @@
 |10 am - 12 pm | Vision Talks  |
 |12 pm - 1 pm | Lunch and informal discussions |
 |1 pm - 4 pm | Work on Python teaching materials individually in small groups |
-|4 pm - 5 pm | Keynote Talks  |
-|5 pm - 6 pm | Dinner and lightning talks, sharing by attendees |
-|6 pm - 7 pm | Keynote Talks   |
-|7 pm –  | informal discussions |
+| 4 pm - 4:30 pm | Keynote Talks  |
+| 4:30-5:00 pm | Keynote Talks  |
+| 5:00-6:30 pm | **Dinner and lightning talks**|
+| 5:00-5:15 pm|  Prof. Pavel Lukashev, University of Northern Iowa
+| 5:20:5:35 pm | Prof. Shanshan Rodriguez, Grinell College
+| 5:40:5:55 pm | Dr. Subhadip Biswas, Iowa State University
+| 6:00-6:15 pm | TBA
+| 6:15 pm - 7 pm | Keynote Talk   |
+|7 pm –  | Informal discussions |
 
 ### Friday May 31, 2024
 
