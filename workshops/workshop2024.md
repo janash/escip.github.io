@@ -18,16 +18,16 @@
 
 |    Time         |   Activity   |
 | :------------   | -------------: |
-| Step 1          |  Arrive at Des moines Airport, can take a [convenient shuttle](https://www.executiveexpress.biz/shuttle-service/) (sign up a week before to reserve) to Ames or use Uber/Lyft|
-| Step 2          |  Arrive at [Gateway Hotel of Ames](https://www.gatewayames.com/?gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYd_bDL2ZwiJL24UCD7-JF8ZD6-vSqDUP6vmgmWIXBR79M8Nu1fIwgBoCoKcQAvD_BwE&gclsrc=aw.ds) on campus of ISU |
-| 6 pm - 8 pm     |  Welcome Social and Dinner        |
+| Step 1          |  Arrive at Des moines Airport, Reserve a [convenient shuttle](https://www.executiveexpress.biz/shuttle-service/) a week in advance or use Uber/Lyft to travel to Ames|
+| Step 2          |  Arrive at [Gateway Hotel of Ames](https://www.gatewayames.com/?gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYd_bDL2ZwiJL24UCD7-JF8ZD6-vSqDUP6vmgmWIXBR79M8Nu1fIwgBoCoKcQAvD_BwE&gclsrc=aw.ds) |
+| 6 pm - 8 pm     |  Welcome Social and Dinner at Gateway Hotel |
 
 
 ### Thursday May 30, 2024
 
 |    Time         |   Activity   |
 | :------------   | -------------: |
-|8 am - 9 am  | Breakfast and Introductions  |
+|8 am - 9 am  | Breakfast and Introductions at Hach Hall, Iowa State |
 |9 am - 9:15 am  | **Welcome message by Prof Theresa Windus, chair of ISU Chemistry Department**  |
 |9:15 am - 10 am | **Tour of ESCIP repository part 1 (escip.github.io) by Prof Davit Potoyan** |
 |10 am - 12 pm | Vision Talks  |
