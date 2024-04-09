@@ -28,18 +28,18 @@
 |    Time         |   Activity   |
 | :------------   | -------------: |
 |8 am - 9 am  | Breakfast and Introductions  |
-|9 am - 9:15 am  | Welcome message by Prof Theresa Windus, chair of ISU Chemistry Department  |
-|9:15 am - 10 am | Tour of ESCIP repository part 1 (escip.github.io) by Prof Davit Potoyan |
+|9 am - 9:15 am  | **Welcome message by Prof Theresa Windus, chair of ISU Chemistry Department**  |
+|9:15 am - 10 am | **Tour of ESCIP repository part 1 (escip.github.io) by Prof Davit Potoyan** |
 |10 am - 12 pm | Vision Talks  |
 |12 pm - 1 pm | Lunch and informal discussions |
 |1 pm - 4 pm | Work on Python teaching materials individually in small groups |
 | 4 pm - 4:30 pm | Keynote Talks  |
 | 4:30-5:00 pm | Keynote Talks  |
 | 5:00-6:30 pm | **Dinner and lightning talks**|
-| 5:00-5:15 pm|  Prof. Pavel Lukashev, University of Northern Iowa
-| 5:20:5:35 pm | Prof. Shanshan Rodriguez, Grinell College
-| 5:40:5:55 pm | Dr. Subhadip Biswas, Iowa State University
-| 6:00-6:15 pm | TBA
+| 5:00-5:15 pm|  **Prof. Pavel Lukashev, University of Northern Iowa**|
+| 5:20:5:35 pm | **Prof. Shanshan Rodriguez, Grinell College**|
+| 5:40:5:55 pm | **Dr. Subhadip Biswas, Iowa State University**|
+| 6:00-6:15 pm | TBA|
 | 6:15 pm - 7 pm | Keynote Talk   |
 |7 pm –  | Informal discussions |
 
@@ -48,7 +48,7 @@
 |    Time         |   Activity   |
 | :------------   | -------------: |
 | 8 am - 9 am |  Breakfast and Tour of ESCIP repository part 2 (escip.github.io) |
-| 9:00-9:30 am| Prof Chris Richardson, Elon University |
+| 9:00-9:30 am| **Prof Chris Richardson, Elon University** |
 | 10:00 am - 11 am | Work on Python teaching materials in small groups  |
 | 11 am - 12 pm | Attendees report out and complete end-of-workshop survey |
 | 12 pm - 1 pm | Lunch and informal discussions |
