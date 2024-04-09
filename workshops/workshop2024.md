@@ -8,7 +8,7 @@
 - The central theme of workshop is about strategies of teaching scientific computing at the time where ChatGPT and similiar disruptive generative AI technologies are changing the way we do research and process information.  
 - This event will be a combination writing retreat (instructors work on course materials) plus training program (faculty learn new skills and discuss best practices for teaching Python in undergraduate science courses). 
 - Research Corporation for Science Advancement (RCSA) will be sponsoring the workshop and providing meals for all attendees. Registration is free but you must RSVP to reserve a spot! Workshop organizer may be able to help offset hotel lodging costs for faculty, but we need to know if you will need this scholarship. 
-- If these activities interest you and fit into your schedule, **please fill out the [registration form](https://forms.gle/HbCYMA9KCphwH9Jd8) by April 15, 2024** to receive more information.
+- If these activities interest you and fit into your schedule, **please fill out the [registration form](https://forms.gle/HbCYMA9KCphwH9Jd8) by April 25, 2024** to receive more information.
 :::
 
 
@@ -48,7 +48,8 @@
 |    Time         |   Activity   |
 | :------------   | -------------: |
 | 8 am - 9 am |  Breakfast and Tour of ESCIP repository part 2 (escip.github.io) |
-| 9 am - 11 am | Work on Python teaching materials in small groups  |
+| 9:00-9:30 am| Prof Chris Richardson, Elon University |
+| 10:00 am - 11 am | Work on Python teaching materials in small groups  |
 | 11 am - 12 pm | Attendees report out and complete end-of-workshop survey |
 | 12 pm - 1 pm | Lunch and informal discussions |
 | 3 pm - 6 pm | Tour of Des Moines Capitol and East Village |
