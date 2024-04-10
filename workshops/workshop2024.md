@@ -30,7 +30,8 @@
 |8 am - 9 am  | Breakfast and Introductions at Hach Hall, Iowa State |
 |9 am - 9:15 am  | **Welcome message by Prof Theresa Windus, chair of ISU Chemistry Department**  |
 |9:15 am - 10 am | **Tour of ESCIP repository part 1 (escip.github.io) by Prof Davit Potoyan** |
-|10 am - 12 pm | Keynote Talks  |
+|10 am - 10:45 pm | **Prof Tom Holme, Iowa State University** |
+|11 am - 11:45 pm | **Dr Andrew Severin, Iowa State University**  |
 |12 pm - 1 pm | Lunch and informal discussions |
 | 1 pm - 3 pm | Work on Python teaching materials individually in small groups |
 | 3:00 pm - 3:30 pm | Keynote Talk  |
