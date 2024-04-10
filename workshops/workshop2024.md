@@ -28,19 +28,19 @@
 |    Time         |   Activity   |
 | :------------   | -------------: |
 |8 am - 9 am  | Breakfast and Introductions at Hach Hall, Iowa State |
-|9 am - 9:15 am  | **Welcome message by Prof Theresa Windus, chair of ISU Chemistry Department**  |
-|9:15 am - 10 am | **Tour of ESCIP repository part 1 (escip.github.io) by Prof Davit Potoyan** |
-|10 am - 10:45 pm | **Prof Tom Holme, Iowa State University** |
-|11 am - 11:45 pm | **Dr Andrew Severin, Iowa State University**  |
+|9 am - 9:15 am  | **Welcome message by [Prof Theresa Windus](https://www.chem.iastate.edu/people/theresa-windus), chair of ISU Chemistry Department**  |
+|9:15 am - 10 am | **Tour of ESCIP repository part 1 (escip.github.io) by [Prof. Davit Potoyan](https://www.chem.iastate.edu/people/davit-potoyan)** |
+|10 am - 10:45 pm | **[Prof. Tom Holme](https://www.chem.iastate.edu/people/tom-holme), Iowa State University** |
+|11 am - 11:45 pm | **[Dr. Andrew Severin](https://www.bcb.iastate.edu/people/andrew-severin), Iowa State University**  |
 |12 pm - 1 pm | Lunch and informal discussions |
 | 1 pm - 3 pm | Work on Python teaching materials individually in small groups |
 | 3:00 pm - 3:30 pm | Keynote Talk  |
 | 3:30-4:00 pm | Keynote Talk  |
 | 4:00-4:30 pm | Keynote Talk  |
 | 5:00-6:30 pm | **Dinner and lightning talks**|
-| 5:00-5:15 pm|  **Prof. Pavel Lukashev, University of Northern Iowa**|
-| 5:20:5:35 pm | **Prof. Shanshan Rodriguez, Grinell College**|
-| 5:40:5:55 pm | **Dr. Subhadip Biswas, Iowa State University**|
+| 5:00-5:15 pm|  **[Prof. Pavel Lukashev](https://chas.uni.edu/physics/directory/pavel-lukashev), University of Northern Iowa**|
+| 5:20:5:35 pm | **[Prof. Shanshan Rodriguez](https://www.grinnell.edu/user/rodriguezs), Grinell College**|
+| 5:40:5:55 pm | **[Dr. Subhadip Biswas](https://twitter.com/subhadip_shuvo?lang=en), Iowa State University**|
 | 6:00-6:15 pm | TBA|
 | 6:15 pm - 7 pm | Keynote Talk   |
 |7 pm –  | Informal discussions |
