@@ -36,7 +36,7 @@
 | 1 pm - 3 pm | Work on Python teaching materials individually in small groups |
 | 3:00 pm - 3:30 pm | Keynote Talk  |
 | 3:30-4:00 pm | Keynote Talk  |
-| 4:00-4:30 pm | Keynote Talk  |
+| 4:00-4:30 pm | **Prof Mark Perri, Sonoma State University**  |
 | 5:00-6:30 pm | **Dinner and lightning talks**|
 | 5:00-5:15 pm|  **[Prof. Pavel Lukashev](https://chas.uni.edu/physics/directory/pavel-lukashev), University of Northern Iowa**|
 | 5:20:5:35 pm | **[Prof. Shanshan Rodriguez](https://www.grinnell.edu/user/rodriguezs), Grinell College**|
