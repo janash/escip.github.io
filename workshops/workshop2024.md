@@ -1,8 +1,8 @@
-# Spring 2024 ESCIP Workshop: "Teaching scientific computing at the dawn of AI"
+# ESCIP2024 Workshop: "Teaching scientific computing at the dawn of AI"
 
 ![](isu.jpg)
 
-:::{admonition} **ESCIP worksop at Iowa State University May 30-31, 2024**
+:::{admonition} **ESCIP2024 will be held at Iowa State University from May 30-31, 2024**
 
 - The central theme of ESCIP2024 workshop is devising new strategies for teaching scientific computing at the time where ChatGPT and similiar disruptive generative AI technologies are changing the way we learn and solve problems.  
 - The workshop will be a combination of keynote and lightning talks, work in small groups, brainstorming sessions and also a training program for anyone interested in learning the best practices for using python based computaation in undergraduate STEM courses. 
