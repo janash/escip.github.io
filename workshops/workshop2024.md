@@ -43,7 +43,7 @@
 | 5:00-5:15 pm|  **[Prof. Pavel Lukashev](https://chas.uni.edu/physics/directory/pavel-lukashev), University of Northern Iowa**|
 | 5:20:5:35 pm | **[Prof. Shanshan Rodriguez](https://www.grinnell.edu/user/rodriguezs), Grinell College**|
 | 5:40:5:55 pm | **[Dr. Subhadip Biswas](https://twitter.com/subhadip_shuvo?lang=en), Iowa State University**|
-| 6:00 pm - 6:45 pm | **[Dr. Ardith Bravenec](https://depts.washington.edu/astrobio/wordpress/profile/ardith-bravenec/)**  |
+| 6:00 pm - 6:45 pm | **[Dr. Ardith Bravenec](https://depts.washington.edu/astrobio/wordpress/profile/ardith-bravenec/), University of Washington**  |
 |7 pm –  | Social and Informal discussions |
 
 ### Friday May 31, 2024
