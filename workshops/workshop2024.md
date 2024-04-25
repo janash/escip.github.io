@@ -30,6 +30,7 @@
 | 9 am - 9:15 am  | **Welcome message by [Prof Theresa Windus](https://www.chem.iastate.edu/people/theresa-windus), chair of ISU Chemistry Department**|
 | 9:15 am - 9:30 pm | **Intorduction to ESCIP workshop by [Prof. Davit Potoyan](https://www.chem.iastate.edu/people/davit-potoyan)**|
 | 9:30 am - 10:15 pm | **[Prof. Tom Holme](https://www.chem.iastate.edu/people/tom-holme), Iowa State University** |
+| 10:15 am - 11:00 pm | **Tour of ESCIP repository part 1 (escip.github.io)** |
 | 11 am - 11:45 pm | **[Dr. Andrew Severin](https://www.bcb.iastate.edu/people/andrew-severin), Iowa State University**  |
 | 12 pm - 2 pm | Lunch and informal discussions|
 | 2:00 pm - 2:45 pm | **[Jason Pearson](https://islandscholar.ca/people/jpearson), University of Prince Edward Island** |
@@ -48,7 +49,7 @@
 
 |    Time         |   Activity   |
 | :------------   | -------------: |
-| 8:30 am - 9:00 am |  **Breakfast and Tour of ESCIP repository, Prof. Davit Potoyan (escip.github.io)** |
+| 8:30 am - 9:00 am |  **Breakfast and Tour of ESCIP repository part 2, Prof. Davit Potoyan (escip.github.io)** |
 | 9:00-9:15 am|  **[Prof. Chris Richardson](https://facstaff.elon.edu/crichardson17/), Elon University** |
 | 9:00-10:00 pm | **[Prof. Mark Perri](https://chemistry.sonoma.edu/faculty-staff/mark-j-perri), Sonoma State University**|
 | 11:00 am - 12 am | Work on Python/ChatGPT materials in small groups  |
