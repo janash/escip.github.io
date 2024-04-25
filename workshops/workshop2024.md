@@ -42,15 +42,14 @@
 | 5:00-5:15 pm|  **[Prof. Pavel Lukashev](https://chas.uni.edu/physics/directory/pavel-lukashev), University of Northern Iowa**|
 | 5:20:5:35 pm | **[Prof. Shanshan Rodriguez](https://www.grinnell.edu/user/rodriguezs), Grinell College**|
 | 5:40:5:55 pm | **[Dr. Subhadip Biswas](https://twitter.com/subhadip_shuvo?lang=en), Iowa State University**|
-| 6:00 pm - 6:45 pm | TBD |
-| 7:00 pm – 8:00pm | Social and Informal discussions |
+| 6:00 pm – 8:00pm | Social and Informal discussions |
 
 ### Friday May 31, 2024
 
 |    Time         |   Activity   |
 | :------------   | -------------: |
-| 8 am - 9 am |  **Breakfast and Tour of ESCIP repository, Prof. Davit Potoyan (escip.github.io)** |
-| 9:00-9:30 am|  **[Prof. Chris Richardson](https://facstaff.elon.edu/crichardson17/), Elon University** |
+| 8:30 am - 9:00 am |  **Breakfast and Tour of ESCIP repository, Prof. Davit Potoyan (escip.github.io)** |
+| 9:00-9:15 am|  **[Prof. Chris Richardson](https://facstaff.elon.edu/crichardson17/), Elon University** |
 | 9:00-10:00 pm | **[Prof. Mark Perri](https://chemistry.sonoma.edu/faculty-staff/mark-j-perri), Sonoma State University**|
 | 11:00 am - 12 am | Work on Python/ChatGPT materials in small groups  |
 | 12 pm - 1 pm | Lunch and informal discussions |
