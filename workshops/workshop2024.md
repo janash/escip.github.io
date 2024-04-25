@@ -31,8 +31,9 @@
 |9:15 am - 9:30 pm | **Intorduction to ESCIP workshop by [Prof. Davit Potoyan](https://www.chem.iastate.edu/people/davit-potoyan)**|
 |9:30 am - 10:15 pm | **[Prof. Tom Holme](https://www.chem.iastate.edu/people/tom-holme), Iowa State University** |
 |11 am - 11:45 pm | **[Dr. Andrew Severin](https://www.bcb.iastate.edu/people/andrew-severin), Iowa State University**  |
-|12 pm - 1 pm | Lunch and informal discussions|
-| 1 pm - 1:15 pm | **[Jason Pearson](https://islandscholar.ca/people/jpearson), University of Prince Edward Island** |
+|12 pm - 2 pm | Lunch and informal discussions|
+| 2 pm - 1:45 pm | **[Jason Pearson](https://islandscholar.ca/people/jpearson), University of Prince Edward Island** |
+
 | 3:00 pm - 3:45 pm | **[Prof. Gianmarc Grazioli](https://gianmarc.com/), San Jose State University**|
 | 3:45 pm - 4:00 pm | **Discussion**|
 | 4:00 pm - 4:45 pm | **[Prof. Ted Clark ](https://chemistry.osu.edu/people/clark.789), Ohio State University**|
